@@ -10,6 +10,4 @@ The resulting video file can be used for a variety of purposes, such as creating
   Below diagram shows the overall process flow of the system
 </p>
 
-<p align="center">
-  ![Process_Flow_Diagram](https://github.com/AR-LABS-CPP/text-talk/blob/main/Flow_Diagram_Text_Talk.png?raw=true)
-</p>
+![Process_Flow_Diagram](https://github.com/AR-LABS-CPP/text-talk/blob/main/Flow_Diagram_Text_Talk.png)
